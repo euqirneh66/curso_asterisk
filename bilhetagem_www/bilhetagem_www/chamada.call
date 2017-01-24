@@ -1,0 +1,8 @@
+Channel: SIP/XXXX
+CallerID: Discador <0000>
+WaitTime: 20
+MaxRetries: 3
+RetryTime: 15
+Context: interno
+Extension: XXXX
+Priority: 1
